@@ -174,7 +174,7 @@ async function connectToWA() {
             mediaType: 1,
             sourceUrl: "https://github.com/Mrrashmika",
             thumbnailUrl:
-              "https://raw.githubusercontent.com/RASH-DATA/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg", // This should match the image URL provided above
+              "https://github.com/dilakshadilshan000-dev/dila-md-bot/blob/main/ChatGPT%20Image%20Jun%2019,%202026,%2003_23_31%20PM.png?raw=true", // This should match the image URL provided above
             renderLargerThumbnail: false,
             showAdAttribution: true,
           },
